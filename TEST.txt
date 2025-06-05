@@ -1,1 +1,15 @@
 The Neotia University
+Write a small writeup on version control system using git. 
+Should have 5 meaningful commit.
+Folder structure
+Folder1
+|-Class Notes
+	|-Notes.txt
+|-vcs_writeup
+	|-writeup.txt
+
+git add
+git status
+git commit
+esc + : wq 
+
